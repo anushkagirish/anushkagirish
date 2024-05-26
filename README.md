@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushka</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <br>
-<img align="right" src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif" width="450" height="200">
+<img align="right" src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif" width="400" height="200">
 
 - 🔭 I’m currently working on **my portfolio website using react and 3js**
 
