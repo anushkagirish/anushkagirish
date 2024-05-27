@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anushka</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkagirish&label=Profile%20views&color=0e75b6&style=flat" alt="anushkagirish" /> </p>
 <img align="right" src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif" width="400" height="200">
 
-- 🔭 I’m currently working on **my portfolio website using react and 3js**
+- 🔭 I’m currently working on **my Portfolio Website using React and 3js**
 
 - 🌱 I’m currently learning **3D rendering websites using 3JS and spline**
 
@@ -17,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anushka-girish" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<a href="https://linkedin.com/in/anushka-girish" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
-<a href="https://www.leetcode.com/nushhh" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+<a  href="mailto:anushka.girish2020@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -29,5 +30,6 @@
 <br>
 <img align="left" src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif" >
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkagirish&show_icons=true&locale=en&layout=compact" alt="anushkagirish" /></p>
+
 
 
