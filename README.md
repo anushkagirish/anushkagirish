@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkagirish&label=Profile%20views&color=0e75b6&style=flat" alt="anushkagirish" /> </p>
-<img align="right" src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif" width="400" height="200">
+<img align="right" src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif" style="width: 80%; height: auto;">
 
 - 🔭 I’m currently working on **my Portfolio Website using React and 3js**
 
